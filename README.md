@@ -132,7 +132,7 @@ def power(request):
 
     return render(request, 'mathapp/math.html', context)
 
-    urls.py
+urls.py
 
      from django.contrib import admin
      from django.urls import path
